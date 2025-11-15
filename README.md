@@ -6,8 +6,7 @@ Cloud & Software Engineer • ServiceNow HRSD Specialist • AI Automation Build
 
 ---
 
-## 🌟 About Me  
-Biomedical Engineer? No.  
+## 🌟 About Me   
 Cloud, Automation and ServiceNow Engineer building **AI-powered workflows**, **cloud-native systems** and **real-time apps**.
 
 I focus on:
