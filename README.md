@@ -87,7 +87,7 @@ From smart personal finance automations to enterprise-grade HR platforms — tec
 
 ---
 
-<p align="center"><i>"Build systems today that make tomorrow effortless."</i> ⚡</p>
+<p align="center"><i>“If everything seems under control, you’re not going fast enough.”</i> ⚡</p>
 
 ---
 
