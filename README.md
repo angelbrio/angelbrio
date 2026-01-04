@@ -96,7 +96,3 @@ From smart personal finance automations to enterprise-grade HR platforms — tec
 🔗 **LinkedIn:** https://www.linkedin.com/in/angel-briones/  
 
 ---
-
-<p align="center">
-  <i>"Build systems today that make tomorrow effortless."</i> ⚡
-</p>
