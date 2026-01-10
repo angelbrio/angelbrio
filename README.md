@@ -8,7 +8,7 @@ I love building end-to-end systems that automate, simplify, and scale. ⚡
 ---
 
 ## 🎓 Studies  
-- 📘 Degree in **Biomedical Engineering** (UPV)  
+- 📘 Degree in **Software Engineering** (UPM)  
 - ☁️ Specialization in **Cloud Engineering & Enterprise Automation**  
 - 📍 Currently working on large-scale **HRSD + AI + Integrations** projects  
 
